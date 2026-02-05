@@ -1,0 +1,6 @@
+# Printing my name
+print("My name is Aarav.")
+# Printing a fun fact about myself
+print("I love playing video games.")
+# Printing my country
+print("I am from England.")
